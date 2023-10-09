@@ -1,0 +1,41 @@
+body {
+  background: rgb(254, 201, 148);
+}
+
+h1 {
+  font-family: Georgia;
+}
+
+p {
+  font-size: 20px;
+}
+
+#filterDropdown {
+  margin-bottom: 14px;
+}
+
+#container {
+  width: 100%;
+  justify-content: center;
+  display: flex;
+}
+
+.card {
+  min-height: 300px;
+  width: 250px;
+  vertical-align: text-top;
+  background: rgb(148, 154, 254);
+  border-radius: 16px;
+  border: 2px solid rgb(92, 78, 239);
+  margin: 5px;
+  padding: 15px;
+}
+
+.card img {
+  width: 100%;
+  margin: 12px 0;
+}
+
+.card p {
+  font-family: Arial;
+}
